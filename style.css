@@ -1,0 +1,31 @@
+h1{
+
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div{
+
+  text-align: center;
+  align-items: center;
+}
+
+img{
+
+  width: 500px;
+  border-radius: 10px;
+}
+
+.q{
+  width: 500px;
+  border-radius: 10px;
+}
+
+.angel{
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
